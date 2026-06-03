@@ -51,13 +51,6 @@
 </a>
 
 <br/><br/>
-
-| Platform | Handle |
-|:---:|:---:|
-| 🐦 Twitter/X | [@pranavps8806](https://x.com/pranavps8806) |
-| 💬 Discord | pranavps8806 |
-| 🏆 LeetCode | [Pranav8806](https://leetcode.com/u/Pranav8806/) |
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -135,9 +128,9 @@
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&icon_color=1a6cf0&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Pranav's GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&icon_color=1a6cf0&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
@@ -160,23 +153,6 @@
 </a>
 
 
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🥇 GitHub Trophies
-
-<div align="center">
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav8806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav8806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6&rank=B,C" alt="GitHub Trophies Row 2" />
 
 </div>
 
@@ -211,7 +187,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> ⚠️ **The snake will appear after you run the GitHub Actions workflow once.** See setup instructions at the bottom of this file.
 
 </div>
 
@@ -238,53 +213,3 @@
 
 </div>
 
-<!-- 
-════════════════════════════════════════════════════════════════
-  🐍 SNAKE ANIMATION SETUP  (Required — do this once)
-════════════════════════════════════════════════════════════════
-
-  1. In your GitHub profile repo (Pranav8806/Pranav8806), create:
-     📄 .github/workflows/snake.yml
-
-  2. Paste this content into that file:
-
-─────────────────────────────────────────────────────────────
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-─────────────────────────────────────────────────────────────
-
-  3. Go to Actions tab → "Generate Snake Animation" → Run workflow
-  4. After it completes, the snake SVG will appear on your profile!
-
-════════════════════════════════════════════════════════════════
-
-  📊 GITHUB STATS NOTE
-  If stats cards show blank/error, it means your account is new
-  or private. Make sure at least a few repos are public.
-
-════════════════════════════════════════════════════════════════
--->
