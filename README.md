@@ -8,7 +8,23 @@
 </a>
 
 <br/>
+## 🐍 Contribution Snake
 
+<div align="center">
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 <p>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%230a2a6e?style=for-the-badge&logo=thealgorithms&logoColor=1a6cf0&labelColor=0d1117&color=0d1117&border=1a6cf0" />
   &nbsp;
@@ -164,24 +180,6 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav8806&bg_color=0d1117&color=1a6cf0&line=1a6cf0&point=ffffff&area=true&area_color=0a2a6e&hide_border=true&custom_title=Pranav's%20Contribution%20Graph" alt="Activity Graph" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 
 </div>
 
