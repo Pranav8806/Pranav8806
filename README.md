@@ -127,10 +127,13 @@
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&icon_color=1a6cf0&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 <br/><br/>
 
 <!-- GitHub Streak — uses git.io mirror which is more stable -->
