@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=1A6CF0&center=true&vCenter=true&multiline=false&width=700&height=55&lines=Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Competitive+Programmer+%F0%9F%8F%86;Web+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%9A%80;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
-## 🐍 Contribution Snake
-
-<div align="center">
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake.svg" />
