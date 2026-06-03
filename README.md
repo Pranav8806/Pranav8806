@@ -94,25 +94,20 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+### 🧠 Core Skills
 
-### 🧠 Core Competencies
+<br/>
 
-| Skill | Proficiency |
-|-------|-------------|
-| 📊 Data Structures & Algorithms | ██████████ Expert |
-| 🏆 Competitive Programming | █████████░ Advanced |
-| ⚡ C++ (OOP) | █████████░ Advanced |
-| 🐍 Python | ████████░░ Proficient |
-| 🟨 JavaScript | ████████░░ Proficient |
-| 🗄️ MySQL | ███████░░░ Intermediate |
-| 🔧 Problem Solving | ██████████ Expert |
-| 🌐 Web Development | ████████░░ Proficient |
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logoColor=1a6cf0)
+![CP](https://img.shields.io/badge/Competitive%20Programming-0d1117?style=for-the-badge&logoColor=1a6cf0)
+![CPP](https://img.shields.io/badge/C%2B%2B%20%26%20OOP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PS](https://img.shields.io/badge/Problem%20Solving-0d1117?style=for-the-badge&logoColor=1a6cf0)
+![WD](https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logoColor=1a6cf0)
 
-</td>
-<td align="center" width="50%">
+<br/>
 
 ### 🎯 Focus Areas
 
@@ -127,15 +122,7 @@
 ╚══════════════════════════════════╝
 ```
 
-**Currently Exploring:**
-- Advanced Graph Algorithms
-- Dynamic Programming
-- System Design
-- React.js & Node.js
-
-</td>
-</tr>
-</table>
+**Currently Exploring:** Advanced Graph Algorithms · Dynamic Programming · System Design · React.js & Node.js
 
 </div>
 
@@ -148,25 +135,14 @@
 <div align="center">
 <br/>
 
-<table>
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&icon_color=1a6cf0&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Pranav's GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&icon_color=1a6cf0&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" />
+<br/><br/>
 
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a6cf0&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Pranav8806&theme=tokyonight&hide_border=true&background=0d1117&ring=1a6cf0&fire=ff6b35&currStreakLabel=1a6cf0&sideLabels=1a6cf0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+<!-- GitHub Streak — uses git.io mirror which is more stable -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav8806&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=1a6cf0&fire=ff6b35&currStreakLabel=1a6cf0&sideLabels=1a6cf0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
@@ -183,34 +159,7 @@
   <img src="https://leetcard.jacoblin.cool/Pranav8806?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=15&width=500" alt="LeetCode Stats"/>
 </a>
 
-<br/><br/>
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/LeetCode%20Rating-1676-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-400%2B-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Contest%20Rating-1783-ef4743?style=for-the-badge&logo=leetcode&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Top-11.07%25-gold?style=for-the-badge" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Easy-180%2B-00b8a3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-180%2B-FFA116?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-40%2B-ef4743?style=for-the-badge" />
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Top%20Contest-12.99%25-blueviolet?style=for-the-badge" />
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -223,7 +172,11 @@
 <div align="center">
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav8806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav8806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav8806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6&rank=B,C" alt="GitHub Trophies Row 2" />
 
 </div>
 
@@ -249,11 +202,16 @@
 <div align="center">
 <br/>
 
+<!-- Snake is generated by GitHub Actions — run the workflow once to activate -->
+<!-- Setup: Add .github/workflows/snake.yml (see instructions at bottom of this file) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+> ⚠️ **The snake will appear after you run the GitHub Actions workflow once.** See setup instructions at the bottom of this file.
 
 </div>
 
@@ -281,14 +239,16 @@
 </div>
 
 <!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  🚀 SETUP INSTRUCTIONS FOR CONTRIBUTION SNAKE            ║
-  ║                                                          ║
-  ║  To activate the snake animation, create a GitHub        ║
-  ║  Actions workflow in your profile repo:                  ║
-  ║                                                          ║
-  ║  File: .github/workflows/snake.yml                       ║
-  ╚══════════════════════════════════════════════════════════╝
+════════════════════════════════════════════════════════════════
+  🐍 SNAKE ANIMATION SETUP  (Required — do this once)
+════════════════════════════════════════════════════════════════
+
+  1. In your GitHub profile repo (Pranav8806/Pranav8806), create:
+     📄 .github/workflows/snake.yml
+
+  2. Paste this content into that file:
+
+─────────────────────────────────────────────────────────────
 
 name: Generate Snake Animation
 
@@ -300,6 +260,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: Platane/snk@v3
         with:
@@ -313,4 +274,17 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+─────────────────────────────────────────────────────────────
+
+  3. Go to Actions tab → "Generate Snake Animation" → Run workflow
+  4. After it completes, the snake SVG will appear on your profile!
+
+════════════════════════════════════════════════════════════════
+
+  📊 GITHUB STATS NOTE
+  If stats cards show blank/error, it means your account is new
+  or private. Make sure at least a few repos are public.
+
+════════════════════════════════════════════════════════════════
 -->
