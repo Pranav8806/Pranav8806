@@ -129,10 +129,10 @@
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight"/>
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight"/>
 </p>
 <br/><br/>
 
