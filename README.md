@@ -151,22 +151,21 @@
 
 ---
 
-## 🏆 LeetCode Statistics
+## 🏆 Coding Statistics
 
 <div align="center">
-<br/>
 
-<a href="https://leetcode.com/u/Pranav8806/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Pranav8806?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=15&width=500" alt="LeetCode Stats"/>
+<a href="https://codolio.com/profile/Pranav8806" target="_blank">
+  <img src="https://codolio.com/profile/Pranav8806/card" alt="Codolio Stats Card" width="800"/>
 </a>
 
+<br/><br/>
 
+<a href="https://leetcode.com/u/Pranav8806/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Pranav8806?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=15" alt="LeetCode Stats"/>
+</a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📈 Activity Graph
 
