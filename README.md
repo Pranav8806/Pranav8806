@@ -121,7 +121,7 @@
 ╚═══════════════════════════════════════════╝
 ```
 
-**Currently Exploring:**  Algorithms · Dynamic Programming · System Design · React.js & Node.js
+**Currently Exploring:**  Algorithms · Dynamic Programming · System Design · Machine Learning & Deep Learning.
 
 </div>
 
