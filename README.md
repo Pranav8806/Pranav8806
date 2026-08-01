@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=1A6CF0&center=true&vCenter=true&multiline=false&width=700&height=55&lines=Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Competitive+Programmer+%F0%9F%8F%86;Web+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%9A%80;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
-</a>-
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav8806/Pranav8806/output/github-snake-dark.svg" />
@@ -156,36 +156,38 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/Pranav8806/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Pranav8806-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.codechef.com/users/pranav8806" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-pranav8806-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <a href="https://codeforces.com/profile/pranav8806" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-pranav8806-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/pranavps8806" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-pranavps8806-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/pranav8806/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-pranav8806-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br><br>
 
 <a href="https://leetcode.com/u/Pranav8806/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Pranav8806?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=15&width=850" alt="LeetCode Stats"/>
+  <img
+    src="https://leetcard.jacoblin.cool/Pranav8806?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=18&width=950"
+    alt="LeetCode Stats"
+    width="100%"
+    style="max-width:950px;display:block;margin:auto;"
+  />
 </a>
 
 </div>
+
 ---
 
 ## 📈 Activity Graph
