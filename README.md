@@ -128,22 +128,39 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
+
 <br/>
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight"/>
+<!-- GitHub Stats -->
+<img
+  height="180em"
+  src="https://github-readme-stats-rho-coral-91.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Pranav Sharma's GitHub Stats"
+/>
 
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight"/>
-</p>
+&nbsp;&nbsp;
+
+<!-- Top Languages -->
+<img
+  height="180em"
+  src="https://github-readme-stats-rho-coral-91.vercel.app/api/top-langs/?username=Pranav8806&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Pranav Sharma's Top Languages"
+/>
+
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav8806&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=1a6cf0&fire=ff6b35&currStreakLabel=1a6cf0&sideLabels=1a6cf0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Pranav8806&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=1a6cf0&fire=ff6b35&currStreakLabel=1a6cf0&sideLabels=1a6cf0&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"
+  alt="Pranav Sharma's GitHub Streak"
+/>
+
+<br/><br/>
 
 </div>
 
