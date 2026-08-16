@@ -136,15 +136,6 @@
 
 <br/>
 
-<!-- GitHub Stats -->
-<img
-  height="180em"
-  src="https://github-readme-stats-rho-coral-91.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Pranav Sharma's GitHub Stats"
-/>
-
-&nbsp;&nbsp;
-
 <!-- Top Languages -->
 <img
   height="180em"
