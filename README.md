@@ -130,12 +130,26 @@
 ---
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <br/>
 
+<<<<<<< HEAD
+=======
+<!-- GitHub Stats -->
+<img
+  height="180em"
+  src="https://github-readme-stats-rho-coral-91.vercel.app/api?username=Pranav8806&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Pranav Sharma's GitHub Stats"
+/>
+
+&nbsp;&nbsp;
+
+>>>>>>> 2ad0d4d (activity graph updated)
 <!-- Top Languages -->
 <img
   height="180em"
@@ -200,10 +214,13 @@
 
 ## 📈 Activity Graph
 
+## 📈 Activity Graph
+
 <div align="center">
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav8806&bg_color=0d1117&color=1a6cf0&line=1a6cf0&point=ffffff&area=true&area_color=0a2a6e&hide_border=true&custom_title=Pranav's%20Contribution%20Graph" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav8806&bg_color=0d1117&color=1a6cf0&line=1a6cf0&point=ffffff&area=true&area_color=0a2a6e&hide_border=true&custom_title=Pranav%27s%20Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
