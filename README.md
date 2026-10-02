@@ -71,14 +71,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 ## 💡 Top Skills
 
 <div align="center">
 
 ### 🧠 Core Skills
 
-<br/>
+<br>
 
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=for-the-badge&logoColor=1a6cf0"/>
 <img src="https://img.shields.io/badge/Competitive%20Programming-0d1117?style=for-the-badge&logoColor=1a6cf0"/>
@@ -89,28 +88,32 @@
 <img src="https://img.shields.io/badge/Problem%20Solving-0d1117?style=for-the-badge&logoColor=1a6cf0"/>
 <img src="https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logoColor=1a6cf0"/>
 
-<br/>
+<br><br>
 
 ### 🎯 Focus Areas
 
-~~~text
-╔═══════════════════════════════════════════╗
-║  🔷 Data Structures & Algorithms         ║
-║  🔷 Competitive Programming              ║
-║  🔷 Object Oriented Programming          ║
-║  🔷 Full Stack Web Development           ║
-║  🔷 AI/ Machine Learning /Deep Learning  ║
-║  🔷 Version Control (Git/GitHub)         ║
-╚═══════════════════════════════════════════╝
-~~~
+<table align="center">
+<tr>
+<td align="center">
+
+| Focus Area |
+|:---:|
+| 🔷 Data Structures & Algorithms |
+| 🔷 Competitive Programming |
+| 🔷 Object Oriented Programming |
+| 🔷 Full Stack Web Development |
+| 🔷 AI / Machine Learning / Deep Learning |
+| 🔷 Version Control (Git/GitHub) |
+
+</td>
+</tr>
+</table>
+
+<br>
 
 **Currently Exploring:** Algorithms · Dynamic Programming · System Design · Machine Learning & Deep Learning.
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📊 GitHub Statistics
 
